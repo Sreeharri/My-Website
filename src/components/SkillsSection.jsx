@@ -29,10 +29,26 @@ const skills = [
     { name: "Jenkins", level: 60, category: "devops" },
     { name: "Kubernetes", level: 70, category: "devops" },
 
+    // Machine Learning
+    { name: "Python", level: 85, category: "Machine Learning" },
+    { name: "NLP", level: 60, category: "Machine Learning" },
+    { name: "TensorFlow", level: 70, category: "Machine Learning" },
+    { name: "PyTorch", level: 65, category: "Machine Learning" },
+    { name: "Scikit-learn", level: 80, category: "Machine Learning" },
+
+
+    // Data Science
+    { name: "Pandas", level: 60, category: "Data Science" },
+    { name: "NumPy", level: 70, category: "Data Science" },
+    { name: "Matplotlib", level: 55, category: "Data Science" },
+    { name: "SQL", level: 75, category: "Data Science" },
+    { name: "Tableau", level: 50, category: "Data Science" },
+    { name: "Power BI", level: 55, category: "Data Science" },
+
     
 ]
 
-const categories = ['all', 'frontend', 'backend', 'tools', 'devops']
+const categories = ['all', 'frontend', 'backend', 'tools', 'devops', "Machine Learning", "Data Science"]
 
 const SkillsSection = () => {
 

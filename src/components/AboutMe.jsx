@@ -15,7 +15,7 @@ const AboutMe = () => {
               <h3 className='text-xl font-semibold'>Passionate Engineering student & Tech creator</h3>
 
               <p className='text-muted-foreground'>
-                Master’s student in Digital Engineering with a passion for creative problem-solving and innovative thinking. Skilled in software development, machine learning, data analysis, and programming, with a drive to deliver impactful solutions. Adaptable, curious, and eager to contribute to dynamic, forward-focused projects.
+                Master’s student in Digital Engineering with a passion for creative problem-solving and innovative thinking. Skilled in software development, machine learning, data science and analysis, and programming, with a drive to deliver impactful solutions. Adaptable, curious, and eager to contribute to dynamic, forward-focused projects.
               </p>
 
               <div className='flex flex-col sm:flex-row gap-4 pt-4 justify-center'>
@@ -56,9 +56,9 @@ const AboutMe = () => {
                       <User className='h-6 w-6 text-primary' />
                     </div>
                     <div className='text-left'>
-                      <h4 className='font-semibold text-lg'>UI/UX Design</h4>
+                      <h4 className='font-semibold text-lg'>Machine Learning</h4>
                       <p>
-                        Proficient in creating user-centered designs and experiences for web and mobile applications.
+                        Experienced in designing, training, and deploying machine learning models to solve real-world problems, with a strong focus on performance, scalability, and accuracy.
                       </p>
                     </div>
                   </div>
@@ -72,9 +72,9 @@ const AboutMe = () => {
                       <Briefcase className='h-6 w-6 text-primary' />
                     </div>
                     <div className='text-left'>
-                      <h4 className='font-semibold text-lg'>Software Engineering</h4>
+                      <h4 className='font-semibold text-lg'>Data Science and Analysis</h4>
                       <p>
-                        Proficient in building scalable and maintainable software solutions using modern programming languages and frameworks.
+                        Proficient in analyzing, interpreting, and modeling data to uncover patterns, trends, and actionable insights that support data-driven decision-making.
                       </p>
                     </div>
                   </div>
